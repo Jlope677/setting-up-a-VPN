@@ -27,7 +27,8 @@ Screenshots of each step have been included below.
 - Record your home IP address.
 
 **Original IP (Home ISP – USA, Texas)**  
-![Original Home IP](whatsmyipaddress.PNG)
+<img width="959" height="589" alt="whatsmyipaddress" src="https://github.com/user-attachments/assets/4c2f9c60-8d1d-47ef-bd85-72cd8bef3e0a" />
+
 
 ---
 
@@ -41,13 +42,11 @@ Screenshots of each step have been included below.
 3. Select **Review + Create**, validate, then launch the VM.
 
 **VM Setup – Example Screenshots**  
-![VM Step 1](vm1.PNG)  
-![VM Step 2](vm2.PNG)  
-![VM Step 3](vm3.PNG)  
-![VM Step 4](vm4.PNG)  
+<img width="1125" height="681" alt="vm1" src="https://github.com/user-attachments/assets/e0154b57-0b55-4d58-ba9d-64a68bfe963b" />
+<img width="1205" height="763" alt="vm2" src="https://github.com/user-attachments/assets/b589ffaa-5492-4439-a443-580e83ee870f" />
+<img width="1085" height="761" alt="vm3" src="https://github.com/user-attachments/assets/8d10e1aa-f680-437d-ac95-d570a5b6e6b8" />
+<img width="1199" height="840" alt="vm4" src="https://github.com/user-attachments/assets/d3597290-062e-4bc9-b2d8-a5e5867b019a" />
 
-**VM Assigned IP (Azure – Virginia, USA)**  
-![VM IP](whatsmyipaddressvm.PNG)
 
 ---
 
@@ -57,7 +56,12 @@ Screenshots of each step have been included below.
 3. Confirm that the VM shows the external IP assigned by Azure.
 
 **Logging into VM**  
-![Logging In](logging in.PNG)
+<img width="601" height="630" alt="logging in" src="https://github.com/user-attachments/assets/bede0509-3160-4022-8a58-7c85c83ccc42" />
+
+
+
+**VM Assigned IP (Azure – Virginia, USA)**  
+<img width="1529" height="665" alt="whatsmyipaddressvm" src="https://github.com/user-attachments/assets/95d8a1db-8747-4801-bed6-f1cb39c2763d" />
 
 ---
 
@@ -68,10 +72,11 @@ Screenshots of each step have been included below.
 4. Select a VPN server location (Japan for this demo).  
 
 **Proton VPN Setup Screenshots**  
-![Proton Step 1](proton vpn.PNG)  
-![Proton Step 2](proton vpn2.PNG)  
-![Proton Step 3](proton vpn3.PNG)  
-![Proton Step 4](proton vpn4.PNG)
+<img width="1446" height="708" alt="proton vpn" src="https://github.com/user-attachments/assets/83809646-c56a-41d9-8018-da7c0fff4d04" />
+<img width="1587" height="897" alt="proton vpn2" src="https://github.com/user-attachments/assets/b1ba70f2-c79a-44be-b42a-d6ea4e94d82e" />
+<img width="1352" height="899" alt="proton vpn3" src="https://github.com/user-attachments/assets/37223786-5f81-4391-9b8c-4834102eefc8" />
+<img width="1297" height="867" alt="proton vpn4" src="https://github.com/user-attachments/assets/fac605f2-cffa-4822-9b10-0fb84a7afd2d" />
+
 
 ---
 
@@ -80,7 +85,8 @@ Screenshots of each step have been included below.
 2. Confirm new IP address shows Japan.  
 
 **VPN IP Address (Tokyo, Japan)**  
-![VPN IP](myipaddressvm with vpn.PNG)
+<img width="806" height="618" alt="myipaddressvm with vpn" src="https://github.com/user-attachments/assets/7a075fe7-afd9-4b3e-aded-54c322c479e9" />
+
 
 ---
 
@@ -90,7 +96,7 @@ We successfully used three different IP addresses in this lab:
 - **Home IP (USA, Texas – Charter ISP)**  
 - **Virtual Machine IP (Azure Datacenter – Virginia, USA)**  
 - **VPN IP (Japan – Proton VPN)**  
-
+ 
 This demonstrates how VPN services combined with cloud resources can obscure physical location and enhance privacy.
 
 ---
