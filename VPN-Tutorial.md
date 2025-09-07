@@ -27,6 +27,7 @@ Screenshots of each step have been included below.
 - Record your home IP address.
 
 **Original IP (Home ISP – USA, Texas)**  
+
 <img width="959" height="589" alt="whatsmyipaddress" src="https://github.com/user-attachments/assets/4c2f9c60-8d1d-47ef-bd85-72cd8bef3e0a" />
 
 
